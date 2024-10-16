@@ -1,4 +1,0 @@
-SELECT * FROM jadwal_mata_kuliah;
-
-SELECT DISTINCT dosen_pengajar
-FROM jadwal_mata_kuliah;
